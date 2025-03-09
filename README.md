@@ -20,15 +20,6 @@ The dashboard includes:
   - 📦 **Total Items Sold**: 8,523
   - ⭐ **Average Rating**: 3.9
 
-- **Visuals**:
-  - 📈 **Sales Trend Over Time** (Outlet Establishment Sales).
-  - 🏪 **Outlet Size Distribution** (Pie Chart).
-  - 🌍 **Outlet Location Breakdown** (Tier-wise Sales).
-  - 🍞 **Item Type Sales Analysis** (Bar Chart).
-  - 🥑 **Fat Content Analysis** (Regular vs. Low Fat).
-  - 🏬 **Outlet Type vs. Total Sales**.
-  - 📊 **Item Type vs. Key Metrics** (Total Sales, Avg. Sales, Total Items, Avg. Rating).
-
 ## 📥 How to Use
 1. Open the `BLINKIT DASHBOARD.pbix` file in **Power BI Desktop**.
 2. Interact with filters to analyze different sales segments.
