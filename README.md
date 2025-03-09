@@ -41,7 +41,3 @@ The dashboard includes:
 - **Outlet establishment year impacts revenue trends**, with a peak in **2018**.
 - **Dairy, Starchy Foods, and Fruits & Vegetables** generate higher sales per item.
 
-## 🛠 Tech Stack
-- **Power BI** (Data Visualization)
-- **Excel** (Data Storage & Preprocessing)
-
